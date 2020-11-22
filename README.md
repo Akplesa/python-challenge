@@ -1,6 +1,6 @@
-## python-challenge
+# Python Financial and Electoral Analysis
 
-# PyBank
+## PyBank
 I created Python script for analyzing the financial records of a mock company. 
 Analysis includes:
 * The total number of months included in the dataset
@@ -9,7 +9,7 @@ Analysis includes:
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in losses (date and amount) over the entire period
 
-# PyPoll
+## PyPoll
 I created Python script for analyzing a set of poll data called election_data.csv. 
 Analysis includes:
 * The total number of votes cast
